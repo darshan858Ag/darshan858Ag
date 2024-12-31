@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Darshan Vijay Shinde</h1>
 <h3 align="center">A passionate Software Tester from India</h3>
-<img scr="https://www.google.com/imgres?q=automation%20testing%20with%20selenium%20and%20testng%20animation&imgurl=https%3A%2F%2Fimg-c.udemycdn.com%2Fcourse%2F480x270%2F1338748_ddcc_31.jpg&imgrefurl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fcucumber-bdd-selenium-java-complete-automation-course%2F&docid=tCyAgZmzLdaByM&tbnid=nRPumJMq63UK1M&vet=12ahUKEwjblb3CxtKKAxXbhlYBHW_5HrwQM3oFCIQBEAA..i&w=480&h=270&hcb=2&ved=2ahUKEwjblb3CxtKKAxXbhlYBHW_5HrwQM3oFCIQBEAA">
 - 🌱 I’m currently learning **Automation Software Testing**
 
 - 💬 Ask me about **core java,html,css,TestNG,Selenium**
